@@ -1,0 +1,20 @@
+{
+    "name": "Mette Pan",
+    "crewSize": 32,
+    "load": "Viking skovbrød til 22kr.",
+    "members": [
+        {
+            "name": "Daniel",
+            "lastname": "Khazer",
+            "species": "alien",
+            "age": 984
+        },
+        {
+            "name": "Bekir",
+            "lastname": "Saliv",
+            "species": "sheep",
+            "age": 2
+        }
+    ]
+
+}
